@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Sohail Ahmad👋<a href="https://sohailahmaddev.netlify.app"></h1>
   </div>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=040C10&width=435&height=100&lines=MERN+Stack+Developer;Mobile+Application+Developer;AI+%26+Chatbot+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=040C10&width=735&height=100&lines=MERN+Stack+Developer;Mobile+Application+Developer;AI+%26+Chatbot+Developer" alt="Typing SVG" /></a>
 	
 <!-- ## My WordPress Course 
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
